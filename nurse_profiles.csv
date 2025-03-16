@@ -1,0 +1,101 @@
+Name,Specialty,Years_Experience,Certifications,Patient_Satisfaction_Score,Successful_Recoveries,Shift_Type,Employment_Type
+Kevin Green,ICU Nurse,27,"BLS, ACLS",3.94,548,Rotational,Contract
+Emma Wilson,Home Health Nurse,26,"BLS, PALS, ENPC",4.9,743,Day,Contract
+Charlie Lewis,Psychiatric Nurse,4,"BLS, ACLS, TNCC",4.47,609,Night,Part-time
+Liam Adams,ER Nurse,19,"BLS, ACLS, TNCC",4.14,609,Night,Full-time
+Mia Adams,Oncology Nurse,15,BLS,3.35,329,Night,Full-time
+Julia Wilson,Surgical Nurse,22,"BLS, ACLS",4.08,846,Rotational,Part-time
+Emma Roberts,Cardiac Nurse,15,"BLS, PALS",4.06,830,Day,Contract
+Fiona Wilson,Geriatric Nurse,17,"BLS, PALS, ENPC",4.79,126,Rotational,Contract
+Nathan Baker,Psychiatric Nurse,12,"BLS, PALS, ENPC",4.19,201,Night,Full-time
+Alice Diaz,Oncology Nurse,11,"BLS, PALS, ENPC",3.98,317,Night,Part-time
+Alice Evans,Pediatric Nurse,29,"BLS, PALS, ENPC",4.74,352,Day,Full-time
+Ian Diaz,ICU Nurse,26,"BLS, NRP",3.54,637,Day,Contract
+Paul Lewis,Pediatric Nurse,1,BLS,3.05,79,Night,Full-time
+Fiona Baker,Cardiac Nurse,22,"BLS, WCC",4.48,485,Day,Part-time
+Samuel Harris,Oncology Nurse,26,"BLS, NRP",3.18,731,Day,Part-time
+Charlie Foster,Home Health Nurse,20,"BLS, CPN",4.32,361,Day,Full-time
+Emma Brown,ICU Nurse,26,"BLS, NRP",4.85,972,Rotational,Contract
+Rachel James,Pediatric Nurse,9,"BLS, PALS, ENPC",4.26,722,Day,Contract
+Fiona Lewis,Surgical Nurse,27,"BLS, PALS, ENPC",3.16,875,Day,Contract
+Tina Clarke,Psychiatric Nurse,5,"BLS, CCRN",4.32,94,Rotational,Part-time
+Ian James,Neonatal Nurse,18,"BLS, PALS, ENPC",3.81,534,Rotational,Part-time
+Fiona Harris,Home Health Nurse,28,"BLS, ACLS, TNCC",4.61,897,Night,Part-time
+Samuel Clarke,Pediatric Nurse,6,"BLS, NRP",3.13,596,Night,Contract
+Ian Harris,Home Health Nurse,2,"BLS, ACLS, TNCC",4.51,346,Night,Part-time
+Rachel Lewis,Home Health Nurse,9,"BLS, PALS",3.69,827,Night,Part-time
+Samuel Irwin,Psychiatric Nurse,19,"BLS, PALS, ENPC",4.07,81,Night,Part-time
+Alice Roberts,Neonatal Nurse,12,"BLS, NRP",4.3,496,Day,Part-time
+Bob Carter,Pediatric Nurse,10,"BLS, WCC",4.16,568,Day,Full-time
+Julia Green,Geriatric Nurse,19,"BLS, PALS, ENPC",3.96,153,Rotational,Part-time
+Kevin Carter,Geriatric Nurse,9,"BLS, PALS",4.62,580,Night,Contract
+Liam Roberts,ICU Nurse,2,"BLS, CCRN",4.96,409,Night,Full-time
+Bob Diaz,Neonatal Nurse,20,"BLS, ACLS, CEN",4.78,899,Rotational,Part-time
+Emma Martin,ER Nurse,15,"BLS, PALS",4.1,881,Rotational,Contract
+Samuel James,Surgical Nurse,12,"BLS, PALS",3.04,198,Rotational,Contract
+Julia Diaz,Surgical Nurse,3,"BLS, WCC",4.92,433,Night,Full-time
+Olivia Wilson,Geriatric Nurse,19,"BLS, ACLS",3.61,279,Rotational,Part-time
+Hannah Irwin,Geriatric Nurse,10,"BLS, ACLS, CEN",4.86,65,Day,Full-time
+Fiona Lewis,ER Nurse,2,"BLS, PALS, ENPC",4.75,923,Day,Contract
+Fiona Harris,ER Nurse,11,"BLS, CPN",3.13,979,Rotational,Full-time
+Nathan Diaz,Oncology Nurse,2,"BLS, WCC",4.86,910,Night,Part-time
+George Johnson,Psychiatric Nurse,7,"BLS, CPN",3.1,719,Rotational,Contract
+Hannah Diaz,Psychiatric Nurse,1,"BLS, ACLS, TNCC",3.5,430,Rotational,Part-time
+Samuel Evans,Psychiatric Nurse,21,"BLS, CPN",3.02,997,Day,Full-time
+Bob Carter,Home Health Nurse,23,"BLS, ACLS, TNCC",4.15,720,Rotational,Full-time
+Emma Baker,ICU Nurse,19,"BLS, ACLS, TNCC",4.75,916,Night,Contract
+Mia White,Surgical Nurse,13,"BLS, CPN",3.77,146,Night,Contract
+Bob Wilson,Pediatric Nurse,30,"BLS, ACLS, TNCC",4.48,645,Night,Contract
+Olivia Martin,Pediatric Nurse,12,"BLS, ACLS, CEN",3.17,105,Night,Full-time
+Samuel Carter,Geriatric Nurse,23,"BLS, WCC",4.42,741,Day,Contract
+David Lewis,ICU Nurse,15,"BLS, WCC",4.56,184,Rotational,Full-time
+Paul Harris,Geriatric Nurse,1,"BLS, WCC",4.87,727,Rotational,Contract
+Mia Diaz,Home Health Nurse,4,"BLS, PALS, ENPC",3.53,288,Day,Part-time
+Ian Roberts,ICU Nurse,27,"BLS, ACLS, TNCC",4.9,370,Rotational,Part-time
+Quinn Adams,Geriatric Nurse,13,"BLS, PALS, ENPC",3.62,553,Night,Part-time
+Kevin Wilson,Pediatric Nurse,8,BLS,3.34,667,Rotational,Contract
+Alice Roberts,Neonatal Nurse,11,"BLS, CPN",4.24,229,Rotational,Full-time
+Ian Irwin,Pediatric Nurse,5,"BLS, ACLS, CEN",3.2,710,Day,Contract
+George Diaz,Pediatric Nurse,29,"BLS, PALS, ENPC",3.34,182,Day,Full-time
+Ian Foster,Oncology Nurse,11,"BLS, CPN",4.38,172,Day,Full-time
+David Baker,Cardiac Nurse,7,"BLS, PALS, ENPC",3.64,279,Night,Contract
+Quinn Davis,Home Health Nurse,23,"BLS, NRP",3.91,385,Night,Part-time
+Olivia Baker,Psychiatric Nurse,15,"BLS, PALS, ENPC",3.78,78,Night,Full-time
+Alice Carter,Surgical Nurse,27,BLS,3.67,290,Day,Contract
+Bob Lewis,ER Nurse,16,"BLS, ACLS, CEN",3.74,737,Rotational,Contract
+Charlie Carter,Cardiac Nurse,25,"BLS, ACLS",3.39,981,Night,Full-time
+Samuel James,ICU Nurse,8,"BLS, CCRN",3.81,804,Night,Contract
+Olivia Foster,Geriatric Nurse,5,"BLS, NRP",4.39,408,Rotational,Contract
+Tina Brown,ER Nurse,12,"BLS, PALS",4.17,854,Rotational,Contract
+Tina Carter,ICU Nurse,1,"BLS, NRP",4.99,223,Rotational,Contract
+Mia Clarke,Cardiac Nurse,8,"BLS, NRP",3.89,176,Rotational,Part-time
+Olivia Irwin,ER Nurse,27,"BLS, CCRN",3.84,496,Day,Part-time
+Kevin Roberts,Home Health Nurse,24,"BLS, ACLS, TNCC",3.85,468,Night,Full-time
+Bob Adams,ICU Nurse,6,"BLS, ACLS",4.81,996,Rotational,Contract
+Alice Adams,Surgical Nurse,23,"BLS, ACLS",4.63,497,Rotational,Contract
+Paul Roberts,Cardiac Nurse,9,"BLS, CPN",3.02,194,Day,Full-time
+Charlie White,ER Nurse,25,"BLS, PALS",4.38,97,Rotational,Full-time
+Paul Roberts,Surgical Nurse,16,"BLS, NRP",4.49,400,Rotational,Contract
+George Smith,Oncology Nurse,27,"BLS, CCRN",3.35,571,Day,Part-time
+Kevin Harris,Neonatal Nurse,4,"BLS, CCRN",4.15,454,Rotational,Contract
+Emma Davis,ICU Nurse,24,BLS,3.12,586,Night,Full-time
+Bob Wilson,ICU Nurse,9,"BLS, CPN",3.72,856,Rotational,Contract
+Emma Baker,Cardiac Nurse,26,"BLS, PALS, ENPC",4.93,559,Rotational,Contract
+Bob Baker,ER Nurse,1,"BLS, CCRN",4.7,102,Night,Part-time
+Ian Evans,ICU Nurse,5,"BLS, ACLS, CEN",3.36,803,Day,Full-time
+Samuel Clarke,Surgical Nurse,23,"BLS, PALS, ENPC",3.41,605,Night,Full-time
+Samuel James,Geriatric Nurse,5,"BLS, ACLS",3.92,849,Night,Part-time
+Alice Martin,Psychiatric Nurse,17,"BLS, PALS, ENPC",3.85,640,Day,Full-time
+Rachel Martin,ICU Nurse,7,BLS,4.83,772,Rotational,Part-time
+Paul Green,Pediatric Nurse,11,"BLS, ACLS, TNCC",4.91,954,Rotational,Full-time
+Hannah Diaz,Home Health Nurse,7,BLS,3.46,233,Rotational,Full-time
+Tina Diaz,ICU Nurse,26,"BLS, NRP",3.57,730,Day,Contract
+Julia Brown,Surgical Nurse,1,"BLS, ACLS",4.09,286,Night,Part-time
+Mia Johnson,Psychiatric Nurse,9,"BLS, PALS",3.78,290,Night,Full-time
+Rachel Davis,Oncology Nurse,11,"BLS, PALS",3.07,853,Rotational,Part-time
+Quinn Lewis,Home Health Nurse,10,"BLS, PALS",3.14,142,Night,Contract
+Charlie Johnson,ICU Nurse,7,"BLS, ACLS, TNCC",3.61,385,Rotational,Full-time
+Bob Diaz,ICU Nurse,1,"BLS, CCRN",4.99,970,Night,Full-time
+Olivia Roberts,Home Health Nurse,15,BLS,4.16,490,Rotational,Part-time
+Hannah Evans,ER Nurse,20,"BLS, PALS, ENPC",4.22,478,Night,Part-time
+Rachel Green,Psychiatric Nurse,28,BLS,4.87,769,Rotational,Part-time

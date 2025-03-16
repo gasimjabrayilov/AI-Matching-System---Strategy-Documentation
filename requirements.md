@@ -47,19 +47,14 @@ Determine and document the attributes that are most important for matching nurse
 
   These weights can be adjusted based on stakeholder feedback and business priorities.
 
-## 3. Stakeholder Involvement
-- **Engage Key Stakeholders:**  
-  Collaborate with HR, recruitment teams, and experienced nurses to validate the criteria and weightings. Their insights will ensure that the system meets real-world requirements.
-- **Review and Iteration:**  
-  Document all assumptions and decisions. Establish a process for periodic review and adjustments as needed based on feedback or changes in hiring priorities.
+
 
 ## 4. Next Steps
 1. **Documentation Review:**  
    Share this document with all relevant stakeholders for feedback and approval.
 2. **Data Exploration:**  
    Proceed to explore and understand the job descriptions and nurse profiles datasets to confirm the available attributes and identify any data cleaning or transformation requirements.
-3. **Design Discussion:**  
-   Organize a meeting with the technical team and business users to discuss and finalize the matching criteria and scoring methodology.
+
 
 
 
